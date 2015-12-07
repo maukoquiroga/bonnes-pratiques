@@ -13,6 +13,7 @@ Attention, la Marianne appartient au [SIG](http://www.gouvernement.fr/service-d-
 
 ### Ressources
 
+- [Logo SGMAP](https://github.com/sgmap/bonnes-pratiques/blob/master/images). Attention, il y en a eu plusieurs versions, la plupart encore trouvables par Google. Les précédentes sont dépréciées.
 - [Logo OpenFisca](http://www.openfisca.fr/hotlinks/) hotlinkable.
 
 ### Protips

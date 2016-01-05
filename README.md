@@ -30,3 +30,15 @@ Ce logo peut également être [hotlinké](http://www.openfisca.fr/hotlinks/). La
 ### Protips
 
 Lorsque votre produit est en phase de découverte ou d'alpha, ne vous préoccupez pas de son apparence.
+
+
+Vocabulaire
+-----------
+
+### Handicap
+
+On parle de personne « en situation de [handicap](http://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006074069&idArticle=LEGIARTI000006796446) » et non de personne « handicapée ».
+
+> Je la classais volontiers parmi la foule des expressions issues du politiquement correct, pensant qu’elle voulait parler des handicapés mais en arrondissant les angles. Je n’ai pas tout de suite compris qu’elle ne désignait pas uniquement les personnes atteintes d’un handicap permanent, mais élargissait la notion de handicap à tout individu pouvant éprouver une difficulté à accomplir une tâche dans un contexte donné.
+
+[Source](http://tanguyreve.unblog.fr/2012/05/03/personne-handicapee-ou-personne-en-situation-de-handicap/).

@@ -42,3 +42,18 @@ On parle de personne « en situation de [handicap](http://www.legifrance.gouv.f
 > Je la classais volontiers parmi la foule des expressions issues du politiquement correct, pensant qu’elle voulait parler des handicapés mais en arrondissant les angles. Je n’ai pas tout de suite compris qu’elle ne désignait pas uniquement les personnes atteintes d’un handicap permanent, mais élargissait la notion de handicap à tout individu pouvant éprouver une difficulté à accomplir une tâche dans un contexte donné.
 
 [Source](http://tanguyreve.unblog.fr/2012/05/03/personne-handicapee-ou-personne-en-situation-de-handicap/).
+
+
+Syntaxe
+-------
+
+### Féminin ou masculin ?
+
+Nos outils s'adressent à tou·te·s les citoyen·ne·s, mais la langue française impose de faire des choix de genre (féminin ou masculin), avec une préférence pour le masculin « qui l'emporte » dans un groupe.
+
+Pour éviter de genrer les outils et ainsi faire du design inclusif, construisez des phrases **neutres en genre**.
+
+Vous pouvez par exemple expliciter le sujet, en utilisant des termes génériques tels que « personne ».
+
+En désespoir de cause, faites apparaître les formulations masculines et féminines dans la même phrase, comme le classique « né(e) en ».
+Cependant, pour fluidifier la lecture, plutôt que des parenthèses, utilisez le [point médian](https://fr.wikipedia.org/wiki/Point_médian#Utilisation_dans_le_langage_non_sexiste) : `·` (`U+00B7`).

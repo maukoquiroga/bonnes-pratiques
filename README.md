@@ -57,3 +57,13 @@ Vous pouvez par exemple expliciter le sujet, en utilisant des termes générique
 
 En désespoir de cause, faites apparaître les formulations masculines et féminines dans la même phrase, comme le classique « né(e) en ».
 Cependant, pour fluidifier la lecture, plutôt que des parenthèses, utilisez le [point médian](https://fr.wikipedia.org/wiki/Point_médian#Utilisation_dans_le_langage_non_sexiste) : `·` (`U+00B7`).
+
+
+Typographie
+-----------
+
+### Guillemets
+
+Les guillemets français sont [`«`](http://unicode-table.com/fr/00AB/) et [`»`](http://unicode-table.com/fr/00BB/), avec des espaces insécables [` `](http://unicode-table.com/fr/00A0/) respectivement après et avant le guillemet.
+
+[Plus d'informations](https://www.noslangues-ourlanguages.gc.ca/bien-well/fra-eng/ponctuation-punctuation/guillemets-quotation-fra.html).

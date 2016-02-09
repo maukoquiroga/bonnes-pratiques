@@ -73,3 +73,15 @@ Les guillemets français sont [`«`](http://unicode-table.com/fr/00AB/) et [`»`
 ### Points de suspension
 
 Les points de suspension sont [`…`](http://unicode-table.com/fr/2026/) et non `...` (trois points). Cette distinction est importante pour les sauts de ligne, les lecteurs d'écran et le copier-coller.
+
+
+Analytics
+---------
+
+Toutes les statistiques d'usage des produits web sont disponibles sur l'instance [Piwik](https://piwik.org) publique [`stats.data.gouv.fr`](https://stats.data.gouv.fr). Cette transparence est importante pour incarner notre démarche d'ouverture et de collaboration avec les citoyens.
+
+> Pour ne pas gonfler artificiellement ces statistiques, les IP suivantes peuvent être exclues dans Piwik :
+>
+> - `46.218.59.235` (ADSL Sully)
+> - `89.225.241.174` (fibre Sully)
+> - `46.218.46.150` (Mutinerie)

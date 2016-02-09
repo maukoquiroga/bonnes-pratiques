@@ -69,3 +69,7 @@ Typographie
 Les guillemets français sont [`«`](http://unicode-table.com/fr/00AB/) et [`»`](http://unicode-table.com/fr/00BB/), avec des espaces insécables [` `](http://unicode-table.com/fr/00A0/) respectivement après et avant le guillemet.
 
 [Plus d'informations](https://www.noslangues-ourlanguages.gc.ca/bien-well/fra-eng/ponctuation-punctuation/guillemets-quotation-fra.html).
+
+### Points de suspension
+
+Les points de suspension sont [`…`](http://unicode-table.com/fr/2026/) et non `...` (trois points). Cette distinction est importante pour les sauts de ligne, les lecteurs d'écran et le copier-coller.

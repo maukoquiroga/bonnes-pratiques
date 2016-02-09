@@ -13,6 +13,8 @@ Attention, la Marianne appartient au [SIG](http://www.gouvernement.fr/service-d-
 
 ### Ressources
 
+Ces images ne sont pas soumises à la licence CC0 appliquée à ce texte.
+
 #### Logo SGMAP
 
 Attention, il y en a eu plusieurs versions, la plupart encore trouvables par Google. Les précédentes sont dépréciées, n'utiliser que celles référencées ici.

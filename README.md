@@ -23,6 +23,12 @@ Stocké dans le dossier [`images`](https://github.com/sgmap/bonnes-pratiques/blo
 
 Ce logo peut également être [hotlinké](http://www.modernisation.gouv.fr/sites/default/files/bloc-sgmap-2.jpg), avec l'avantage d'être mis à jour en autonomie par le service communication du SGMAP (exemple : bandeau noir en deuil national) et l'inconvénient de ne pas avoir de stabilité URL garantie à 100%.
 
+#### Logo « éprouvette » de l'Incubateur
+
+Stocké dans le dossier [`images`](https://github.com/sgmap/bonnes-pratiques/blob/master/images).
+
+Ce logo n'a pas aujourd'hui de reconnaissance officielle. Le privilégier pour les prototypes.
+
 #### Logo OpenFisca
 
 Stocké dans [`openfisca/openfisca-web-site`](https://github.com/openfisca/openfisca-web-site/tree/master/openfisca_web_site/static/hotlinks).

@@ -8,14 +8,14 @@ Par exemple, pas comme ça :
 > Le titre
 > ##### Méthode « startup d’État », la nouvelle manière de construire les projets de l’administration
 > me pose vraiment problème. Plutôt que de simplement le réécrire, je vais détailler pourquoi en espérant que ça guide de futurs points rédactionnels.
-> 
+>
 > 1. Ce n’est pas la nouvelle manière de construire mais une manière, qui ne doit surtout pas être perçue par des acteurs publics comme le moyen d’être hype sans se remettre en question. Ce n’est pas une évolution naturelle de tous les projets administratifs avec une part de numérique, mais une possibilité de construire de manière exploratoire un service encore inconnu. On reçoit déjà assez de demandes mal qualifiées comme ça, il faut limiter notre exposition.
 > 2. Ce ne sont pas des projets mais des produits, ou éventuellement des services numériques. C’est très important : un projet a un début et une fin connues, un produit vivra et évoluera en permanence. On est sur un changement de pensée majeur pour l’administration. La notion de service est encore plus lointaine, et c’est peut-être même un peu tôt pour l’introduire, mais on peut faire le lien avec service public numérique.
 > 3. Je ne suis vraiment pas convaincu par l’appellation de « méthode ». On a des principes, des valeurs, des exemples et des éléments de méthode, mais il ne me semble pas qu’une « Startup d’État » soit une méthode.
-> 
+>
 > « Produire rapidement et durablement des outils numériques qui améliorent le service public », c’est très bien  ;)
 > Ou, pour rester plus proche de ton titre, « Les Startups d’État, un moyen de construire des produits numériques qui améliorent le service public ».
-> 
+>
 > Et s’il vous plaît, j’insiste sur la majuscule à Startup d’État. Ça signifie qu’on introduit un concept entier, par opposition à startup d’État, qui laisse entendre que c’est une startup de l’État, avec toutes les questions de statut moral. C’est comme les guillemets, mais sans l’aspect dépréciatif.
 
 

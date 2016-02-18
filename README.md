@@ -60,7 +60,7 @@ Ce logo peut également être [hotlinké](http://www.openfisca.fr/hotlinks/). La
 
 ### Protips
 
-Lorsque votre produit est en phase de découverte ou d'alpha, ne vous préoccupez pas de son apparence.
+Lorsque votre produit est en phase d'investigation ou en début de construction, ne vous préoccupez pas de son apparence.
 
 
 Vocabulaire

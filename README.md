@@ -63,6 +63,16 @@ Ce logo peut également être [hotlinké](http://www.openfisca.fr/hotlinks/). La
 Lorsque votre produit est en phase d'investigation ou en début de construction, ne vous préoccupez pas de son apparence.
 
 
+Langue
+------
+
+Par souci de lisibilité pour les partenaires, notamment administratifs, la langue utilisée pour la description et le suivi de fonctionnalités est le français.
+
+En revanche, pour éviter le coût du changement de contexte, les discussions techniques, notamment par le biais de commentaires ou d'échanges par des logiciels spécialisés, peuvent se faire en anglais, la langue la plus utilisée dans le cadre du développement logiciel.
+
+> Attention à ne pas rédiger un `README` _intégralement_ en anglais, par exemple. Un simple résumé en français _([exemple](https://github.com/sgmap/paie-api#readme))_ vous permettra de [respecter la loi](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000005616341&dateTexte=vig#LEGIARTI000006421216).
+
+
 Vocabulaire
 -----------
 

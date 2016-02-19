@@ -90,15 +90,7 @@ Syntaxe
 
 ### Féminin ou masculin ?
 
-Nos outils s'adressent à tou·te·s les citoyen·ne·s, mais la langue française impose de faire des choix de genre (féminin ou masculin), avec une préférence pour le masculin « qui l'emporte » dans un groupe.
-
-Pour éviter de genrer les outils et ainsi faire du design inclusif, construisez des phrases **neutres en genre**.
-
-Vous pouvez par exemple expliciter le sujet, en utilisant des termes génériques tels que « personne ».
-
-En désespoir de cause, faites apparaître les formulations masculines et féminines dans la même phrase, comme le classique « né(e) en ».
-Cependant, pour fluidifier la lecture, plutôt que des parenthèses, utilisez le [point médian](https://fr.wikipedia.org/wiki/Point_médian#Utilisation_dans_le_langage_non_sexiste) : `·` (`U+00B7`).
-
+Pour combattre les stéréotypes de sexe dans la communication, interne comme externe, des pouvoirs publics, le [Haut Conseil à l’Égalité entre les femmes et les hommes](http://www.haut-conseil-egalite.gouv.fr/) a élaboré la [Guide pratique pour une communication publique sans stéréotype de sexe](http://www.haut-conseil-egalite.gouv.fr/IMG/pdf/hcefh__guide_pratique_com_sans_stereo-_vf-_2015_11_05.pdf) à destination, entre autres, des services de l’État.
 
 Typographie
 -----------

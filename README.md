@@ -90,7 +90,7 @@ Syntaxe
 
 ### Féminin ou masculin ?
 
-Pour combattre les stéréotypes de sexe dans la communication, interne comme externe, des pouvoirs publics, le [Haut Conseil à l’Égalité entre les femmes et les hommes](http://www.haut-conseil-egalite.gouv.fr/) a élaboré la [Guide pratique pour une communication publique sans stéréotype de sexe](http://www.haut-conseil-egalite.gouv.fr/IMG/pdf/hcefh__guide_pratique_com_sans_stereo-_vf-_2015_11_05.pdf) à destination, entre autres, des services de l’État.
+Pour combattre les stéréotypes de genre dans la communication, interne comme externe, des pouvoirs publics, le [Haut Conseil à l’Égalité entre les femmes et les hommes](http://www.haut-conseil-egalite.gouv.fr/) a élaboré la [Guide pratique pour une communication publique sans stéréotype de sexe](http://www.haut-conseil-egalite.gouv.fr/IMG/pdf/hcefh__guide_pratique_com_sans_stereo-_vf-_2015_11_05.pdf) à destination, entre autres, des services de l’État.
 
 Typographie
 -----------
